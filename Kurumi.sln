@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kurumi", "Kurumi.csproj", "{17A5CEF6-A778-4AD6-BD45-2EDAEFB5C24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A5CEF6-A778-4AD6-BD45-2EDAEFB5C24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A5CEF6-A778-4AD6-BD45-2EDAEFB5C24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A5CEF6-A778-4AD6-BD45-2EDAEFB5C24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A5CEF6-A778-4AD6-BD45-2EDAEFB5C24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7021C8-82FD-4E84-939D-C6C99DBD2A94}
+	EndGlobalSection
+EndGlobal
